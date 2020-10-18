@@ -11,6 +11,8 @@
 
 ### Languages i'm continuously exploring are <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="22" style="vertical-align:top; margin:4px"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5 & CSS" height="22" style="vertical-align:top; margin:4px"> <img src="https://isocpp.org/files/img/cpp_logo.png" alt="C++" height="22" style="vertical-align:top; margin=4px"> <img src="https://i.imgur.com/zINUxVf.png" alt="C" height="22" style="vertical-align:top; margin=4px">
 
+### Why i want to join Google DSC ITB? 
+<h5> I want to expand my knowledge, meet new people and build network, and finally being able to apply my knowledge in form of an innovation to help many people. </h5>
 
 #### мαнαяαиι αуυ ρυтяι ιяαωαи - 2020
 <!--
