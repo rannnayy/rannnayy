@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]: https://www.linkedin.com/in/maharani-ayu-putri-78b7781ab
+[linkedin]: https://www.linkedin.com/in/maharani-ayu-putri-irawan-78b7781ab
 [instagram]: https://www.instagram.com/rani.ayuputri/
